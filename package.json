@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "this is a really amazing burger list based on what you've eaten or not.  Ok, maybe its not really cool after all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbacklund/burger.git"
+  },
+  "keywords": [],
+  "author": "Craig Backlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbacklund/burger/issues"
+  },
+  "homepage": "https://github.com/cbacklund/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}

@@ -1,0 +1,35 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+
+  #burger-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group-list {
+    margin-bottom: 5px;
+    width: 40%;
+    display: block;
+    float: left;
+  }
+
+  .form-group.devoured {
+    margin-bottom: 5px;
+    width: 40%;
+    display: block;
+  }
